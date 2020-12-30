@@ -1,0 +1,2 @@
+# ReactMasterDetailsWebApi
+core
